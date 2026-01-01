@@ -1,0 +1,7 @@
+{
+  "name": "0101 2 The Silent Architect ",
+  "description": "A quiet curator of ideas and a poet of computation. A daily design briefing system utilizing AI for architectural observation and poetic narrative.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
